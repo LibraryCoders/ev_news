@@ -16,7 +16,7 @@ const HomePage = () => {
     id: 2,
     title: 'Rivian Expands Production Capacity',
     description: 'Electric truck maker doubles factory output to meet surging demand for R1T and R1S models.',
-    image: 'https://images.unsplash.com/photo-1631895657911-711f9bf360c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80',
+    image: 'https://www.electrive.com/media/2024/03/rivian-r2-2024-09-min.jpg.webp',
     date: 'Yesterday'
   }, {
     id: 3,
@@ -40,7 +40,7 @@ const HomePage = () => {
     id: 6,
     title: 'Legacy Automakers Accelerate EV Transitions',
     description: "Premium subscribers can view this exclusive analysis on traditional manufacturers' electric strategies.",
-    image: 'https://images.unsplash.com/photo-1611356510652-aab3c3c235ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+    image: 'https://ceoworld.biz/wp-content/uploads/2025/01/electric-vehicle.jpg',
     date: '5 days ago',
     premium: true
   }];
